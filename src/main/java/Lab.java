@@ -26,7 +26,9 @@ public class Lab {
      * @return text.
      */
     public String copy(String text){
-        return "hello";
+
+        
+        return "polly";
     }
 
   
